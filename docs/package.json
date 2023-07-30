@@ -1,0 +1,19 @@
+{
+  "name": "Screenlife-Analytics",
+  "version": "0.0.1",
+  "description": "Web based image annotation tool and data repository",
+  "main": "index.js",
+  "authors": {
+    "name": "Dan (SUTD Social AI)",
+    "email": "dangn511@gmail.com"
+  },
+  "repository": "/Screenlife-Analytics",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
